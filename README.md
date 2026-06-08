@@ -1,4 +1,4 @@
-## Установка (XAMPP / OpenServer)
+## Установка (XAMPP)
 
 1. Скопируйте папку `City_Style` в `htdocs` (XAMPP)
 2. Открой phpMyAdmin → вкладка SQL
