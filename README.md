@@ -1,9 +1,9 @@
 ## Установка (XAMPP)
 
 1. Скопируйте папку `City_Style` в `htdocs` (XAMPP)
-2. Открой phpMyAdmin → вкладка SQL
+2. Откройте phpMyAdmin → вкладка SQL
 3. Вставьте содержимое файла `style.sql` и нажмите "Выполнить"
-4. Открой в браузере: http://localhost/Сity_Style/](http://localhost/CityStyleFinal2/php/index.php
+4. Откройте в браузере: http://localhost/CityStyleFinal2/php/index.php
 
 ## Тестовые пользователи
 
